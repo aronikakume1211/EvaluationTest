@@ -1,0 +1,14 @@
+.container {
+	margin: 5%;
+	background-color: rgb(255, 255, 255);
+}
+.container input {
+	border-radius: 20px;
+	padding: 6px;
+}
+.container button {
+	background-color: #f59227;
+
+	border: none;
+	border-radius: 20px;
+}
